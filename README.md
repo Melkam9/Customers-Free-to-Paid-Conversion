@@ -6,4 +6,4 @@
 - Student_Purchases contains 3 columns and 5922 rows.
 ### Task 
 - The primary aim of this project is to retrieve the average rate for customers to transition into paid subscriptions.
-- Secondary goal is to find out the average number of days it takes to transition from accessing the free version to paid subscription. 
+- The Secondary goal is to find out the average number of days it takes to transition from accessing the free version to paid subscription. 
