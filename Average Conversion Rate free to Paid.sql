@@ -1,5 +1,7 @@
 use db_course_conversions;
-
+select count(student_id) from student_info;
+select count(student_id) from student_engagement;
+select count(student_id) from student_purchases;
 Select 
 round(count(first_date_purchased) / count(first_date_watched) * 100, 2) as Conversion_Rate, 
 -- The following code retrieves the average number of days customers take to access the material
